@@ -133,9 +133,9 @@ const ICXRGlobe: React.FC<ICXRGlobeProps> = ({}) => {
         name: "XRIG"
     },
     {
-        lat: 40.7295,
-        lng: -73.9965,
-        name: "SPS Metaverse Club"
+        lat: 31.2304,
+        lng: 121.4737,
+        name: "AR/VR Lab @ NYU Shanghai"
     },
     {
         lat: 34.0224,
